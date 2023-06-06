@@ -19,11 +19,11 @@ Gypoo is a hotel recommendation and booking web application currently under deve
 
 ## Before every work
 
-- [] `git pull origin master` to update the work in your local folder
+- [] `git pull origin main` to update the work in your local folder
 
 ## After every work
 
-- [] `git pull origin master` to update the work in your local folder
+- [] `git pull origin main` to update the work in your local folder
 - [] `git add .`
 - [] `git commit -m "commit-message"`
 - [] `git push -u origin your-branch-name`
